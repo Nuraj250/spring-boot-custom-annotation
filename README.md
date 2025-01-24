@@ -1,4 +1,4 @@
-# Spring Boot Custom Annotation  
+# Spring Boot Custom Annotation   
 
 This repository demonstrates how to create and use a custom annotation in a Spring Boot application. The custom annotation `@LogExecutionTime` is used to measure and log the execution time of methods, leveraging Spring's Aspect-Oriented Programming (AOP) capabilities. 
   
